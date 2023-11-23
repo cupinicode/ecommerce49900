@@ -1,0 +1,29 @@
+.container {
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+}
+
+.categorias {
+    display: flex;
+    align-items: center;
+    margin-right: 1em;
+}
+
+.boton {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    background-color: aquamarine;
+    margin-inline-end: 1em;
+    border-radius: 15%;
+}
+
+.boton:hover{
+    background-color: aliceblue;
+    border-radius: 0%;
+}
+
+
+.rojo {
+    color: red
+}
