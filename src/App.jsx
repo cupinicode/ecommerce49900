@@ -7,7 +7,7 @@ function App() {
       <div>
         <Navbar />
       </div>
-      <h1>Comisión 49900</h1>
+      <h1>todovinos.com</h1>
     </>
   )
 }
